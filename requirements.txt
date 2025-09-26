@@ -1,4 +1,7 @@
-Django==5.0.3
+Django>=5.0,<6.0
+djangorestframework
+django-crispy-forms
+django-filterDjango==5.0.3
 djangorestframework==3.15.0
 django-crispy-forms==2.1
 crispy-bootstrap5==2023.10
